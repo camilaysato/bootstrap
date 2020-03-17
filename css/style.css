@@ -1,0 +1,39 @@
+body {
+    font: 20px Garamond, sans-serif;
+}
+
+.h3 {
+    font-style: oblique;
+}
+
+.navbar {
+    background-color: #CDD7FF;
+}
+
+.quem-somos {
+    background-color: #DFBEFD;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: thistle;
+    color: white;
+}
+
+.serviços {
+    background-color: wheat;
+    color: white
+}
+
+.bg-footer {
+    background-color: gray;
+    color: white;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
